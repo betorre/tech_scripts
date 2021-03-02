@@ -78,6 +78,9 @@ row_nsid = row + NS
 
 #CALL get_ns_vip() with calculated rows and columns
 get_ns_vip(row_nsid,column_vip)
+get_ns_h1(row_nsid,column_h1)
+get_ns_h2(row_nsid,column_h2)
+
 
 
 
